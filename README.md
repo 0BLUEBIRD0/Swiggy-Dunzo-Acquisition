@@ -15,10 +15,3 @@ Quantify KPIs like ROI, market share, and breakeven.
 Deliver actionable insights via dashboards and decks.
 Build a portfolio-ready project showcasing analytics and strategy skills.
 
-Project Structure
-
-/data/: Datasets (CSV/Excel) – to be added in Phase 2.
-/notebooks/: Jupyter notebooks for analysis – to be added in Phase 3.
-/dashboard/: Code for interactive simulator – to be added in Phase 4.
-/deck/: Strategy PDF deck – to be added in Phase 5.
-scoping_document.md: Phase 1 executive summary.
